@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'FilthyHabits';
+    src: url('https://mogekonik1.github.io/css-BOTC/FilthyHabits.woff2') format('woff2');
+}
+
+body {
+    font-family: 'FilthyHabits', sans-serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+.title {
+    font-size: 50px;
+    text-transform: uppercase;
+}
